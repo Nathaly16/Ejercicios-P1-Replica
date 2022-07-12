@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/E_LOGICAU2/Latch2_isim_beh.exe" -prj "C:/Xilinx/E_LOGICAU2/Latch2_beh.prj" "work.Latch2" 

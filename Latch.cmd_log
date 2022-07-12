@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/E_LOGICAU2/Latch.xst" -ofn "C:/Xilinx/E_LOGICAU2/Latch.syr" 

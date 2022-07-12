@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/E_LOGICAU2/Ejercicio_3_5.xst" -ofn "C:/Xilinx/E_LOGICAU2/Ejercicio_3_5.syr" 
